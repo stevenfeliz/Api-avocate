@@ -10,3 +10,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/stevenfeliz](https://www.linkedin.com/in/stevenfeliz)
 
 ## GRUD FETCH JAVASCRIPT
+
+
+![alt text](https://github.com/stevenfeliz/Api-avocate/blob/main/apiaguacate.png)
