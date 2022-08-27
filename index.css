@@ -1,0 +1,45 @@
+.contenedor{
+    width: 100%;
+    
+    margin: 0 auto;
+    background-color: #97D9E1;
+   
+}
+
+#item{
+    
+    box-shadow: 10px 9px #888888;
+    width: 350px;
+    margin: 20px;
+   
+    background-color: rgb(255, 255, 255);
+
+}
+
+#item img{
+    justify-content: center;
+}
+
+.price{
+    font-size: 2rem;
+}
+
+nav{
+    text-align: center;
+}
+nav button{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    
+}
+
+#item .price{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#item h2{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
