@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stevenfeliz](https://www.linkedin.com/in/stevenfeliz)
 
-## GRUD FETCH JAVASCRIPT
+## Consumo de api - AVOCATE API PLATZI
 
 
 ![alt text](https://github.com/stevenfeliz/Api-avocate/blob/main/apiaguacate.png)
